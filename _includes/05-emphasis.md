@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* **Favorite Books** :heart:
+  * _Ender's Game_
+  * _Slaughterhouse-Five_
+* **_Favorite Restaurants_** :yum:
+  * _BJ's_
+  * _Texas RoadHouse_
