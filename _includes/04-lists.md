@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Favorite Books
+  * Ender's Game
+  * Slaughterhouse-Five
+* Favorite Restaurants
+  * BJ's
+  * Texas RoadHouse
